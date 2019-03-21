@@ -11,7 +11,7 @@ General rules
 -   **No spamming or botting.**
 -   **Profanity and swearing are allowed.** Just don't overdo it.
 -   **Use brackets for out-of-character chat in in-character areas** -- e.g., ``#comms and radio``, ``#space`` and SB server hubs. Like this:
-    ``(( This is OOC chat. ))``
+    (( This is OOC chat. ))
 -   **Keep in-character shitposting to a minimum.**
 -   **Keep out-of-character chat to a minimum in in-character areas.**
 -   **Playing the rules game, making frivolous reports to staff and other abusive behaviour are not tolerated.**
