@@ -10,8 +10,8 @@ General rules
 -   **Harassment and abuse of other community members are NOT allowed.** *Any* harassment or abuse of community members, or endorsement of such, within this community or in relation to Starbound roleplay falls under the purview of this rule. Violators may be permabanned without appeal or even preemptively banned before joining. If you are being harassed or abused over Starbound roleplay, feel free to privately report it to staff.
 -   **No spamming or botting.**
 -   **Profanity and swearing are allowed.** Just don't overdo it.
--   **Use brackets for out-of-character chat in in-character areas (e.g., #comms and radio, #space and SB server hubs). Like this:**
-    (( This is OOC chat. ))
+-   **Use brackets for out-of-character chat in in-character areas** -- e.g., ``#comms and radio``, ``#space`` and SB server hubs. Like this:
+    ``(( This is OOC chat. ))``
 -   **Keep in-character shitposting to a minimum.**
 -   **Keep out-of-character chat to a minimum in in-character areas.**
 -   **Playing the rules game, making frivolous reports to staff and other abusive behaviour are not tolerated.**
@@ -38,23 +38,23 @@ Starbound server rules
 Discord server rules
 --------------------
 
--   **Discord's guidelines are enforced in this community. `This link <https://discordapp.com/guidelines/>`_ explains Discord's stance on acceptable and unacceptable behaviour. These rules will be enforced by staff on a case-by-case basis. E.g., immediate permabans if lolicon, shotacon, cub porn or similar content is posted.**
+-   **Discord's guidelines are enforced in this community.** `This link <https://discordapp.com/guidelines/>`_ explains Discord's stance on acceptable and unacceptable behaviour. These rules will be enforced by staff on a case-by-case basis. E.g., immediate permabans if lolicon, shotacon, cub porn or similar content is posted.
 -   **Any content in violation of the above guidelines *will* be removed. No exceptions.**
 -   **Please do not post NSFW content of any kind.** Keep it to DMs.
 -   **ERP is NOT allowed on the Discord server.** Again, *keep it to DMs*.
--   **No political or religious discussion outside of ``#political and religious discussion``.** These topics are very touchy and tend to lead to arguments and name-calling. Ask staff to give you permission to chat in the channel if you want to discuss this kind of stuff.**
+-   **No political or religious discussion outside of** ``#political and religious discussion``. **These topics are very touchy and tend to lead to arguments and name-calling. Ask staff to give you permission to chat in the channel if you want to discuss this kind of stuff.**
 -   **Spam is NOT allowed, no matter what kind of content it is.**
 -   **Excessive shitposting is NOT allowed** -- **this includes nicknames, avatars and the like. The Discord server is NOT your personal dumpster.** You can post memes and reaction images, but *don't overdo it*. Violation of this rule may result in immediate temporary revocation of image posting permissions, a mute or even a ban. 
 -   **Memes and reaction images should not greatly interfere with ongoing discussion.** Again, exercise restraint -- staff are not your babysitters.
 -   **Avoid out-of-character racist, homophobic, bigoted or otherwise discriminatory commentary. There's no reason to post it.**
 -   **Avoid name-calling and shouting matches.**
--   **Please do not derail discussions in ``ROLEPLAY DISCUSSION``.**
+-   **Please do not derail discussions in** ``ROLEPLAY DISCUSSION``.
 -   Observe basic netiquette in general.
 
 Applications, appeals and approval
 ----------------------------------
 
--   **In order to be able to roleplay on Epsilon RP, you must submit an application in ``#applications`` on the Discord server.** The application template is pinned in that channel. Those who do not apply to become community members will be kicked after two weeks, no questions asked.
+-   **In order to be able to roleplay on Epsilon RP, you must submit an application in** ``#applications`` **on the Discord server.** The application template is pinned in that channel. Those who do not apply to become community members will be kicked after two weeks, no questions asked.
 -   **You have two weeks to appeal a rejected application before you are kicked from the community.**
 -   **Appeal bans, mutes and other staff punishments by DMing any moderator or admin.** You must submit your appeal within two weeks of being banned; otherwise, it will not be accepted and your ban becomes permanent. There is no time limit when appealing mutes and other punishments.
 
