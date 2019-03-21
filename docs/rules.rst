@@ -58,7 +58,8 @@ Applications, appeals and approval
 -   **You have two weeks to appeal a rejected application before you are kicked from the community.**
 -   **Appeal bans, mutes and other staff punishments by DMing any moderator or admin.** You must submit your appeal within two weeks of being banned; otherwise, it will not be accepted and your ban becomes permanent. There is no time limit when appealing mutes and other punishments.
 
-### Application template
+Application template
+~~~~~~~~~~~~~~~~~~~
 
 -   **Age:**
    Your age here. *You are required to state at least whether you are under 18. Specifying age in years is highly recommended.*
@@ -80,7 +81,8 @@ Applications, appeals and approval
 
 -   **Do you agree to the rules?** Yes/no. *Required.*
 
-### Appeal template
+Appeal template
+~~~~~~~~~~~~~~~
 
 -   **What violation are you appealing?**
    What it says on the tin. *Required.*
@@ -116,7 +118,8 @@ Read these before roleplaying on Epsilon RP. *IC* stands for *in-character* and 
 - **Non-player character (NPC):** Any character not directly RPed by any player.
 - **Multi-clienting:** Connecting to the server with multiple SB clients to be able to RP multiple characters.
 
-### Important stuff
+Important stuff
+~~~~~~~~~~~~~~~
 
 -   ***Use common sense.*** There's no telling how many problems could be resolved or avoided by following this one simple rule.
 -   **If a staff member tells you there's a problem, there's a problem. Do not ignore staff just because your violation is not explicitly listed or referenced in the rules.** Staff will try to work with you to correct the problem without resorting to staff action.
@@ -152,7 +155,8 @@ Sheets, pages and lore
 
 **Check the requirements below to see if you need sheets or pages for your characters, equipment, factions or whatever.** If in doubt as to whether you need sheets, write and post them. You may post sheets on Discord in the `SHEETS AND LORE` channels (the latter option is recommended for newcomers). Character sheets should come with a picture of the associated character. Sheets/pages and approval are **always** required whenever staff say so, and staff may rework sheets and pages if they see issues with them. You will be notified if this kind of situation should come up. If you have any special requirements, such as keeping sheet-requiring stuff out of OOC knowledge to prevent metagaming, feel free to ask staff.
 
-### Stuff that DOES NOT require sheets/pages
+Stuff that DOES NOT require sheets/pages
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -   Ordinary civilian equipment, such as tasers, bear/pepper spray, crowbars and baseball bats.
 -   Conventional civilian firearms (handguns, hunting rifles, etc.).
@@ -163,7 +167,8 @@ Sheets, pages and lore
 -   Sub-races of vanilla races, as long as they don't have advantages or significant disadvantages.
 -   Civilian-grade prosthetics with no special advantages. Exoskeletons with no special advantages, designed to mitigate disabilities.
 
-### Stuff that DOES require sheets/pages
+Stuff that DOES require sheets/pages
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -   Highly armed characters in general.
 -   Non-civilian firearms (assault rifles, sniper rifles, plasma weapons, etc.).
@@ -179,7 +184,8 @@ Sheets, pages and lore
 -   Combat-grade prosthetics.
 -   Light combat exoskeletons.
 
-### Stuff that requires staff approval
+Stuff that requires staff approval
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The stuff below requires staff approval. If in doubt as to whether you need items, characters, factions or whatever approved, ask staff.
 
@@ -199,7 +205,8 @@ Consent rules
 
 This section explains the rules dealing with consent to harming other characters.
 
-### Definitions
+Definitions
+~~~~~~~~~~~
 
 - **Consent:** Expressly or implicitly given OOC permission to roleplay a permanent, impactful or long-lasting IC action (e.g., maiming or death) towards another roleplayer's character or characters.
 - **Consent refusal:** Express or implicit OOC refusal of permission for the above.
@@ -215,7 +222,8 @@ This section explains the rules dealing with consent to harming other characters
 - **Explicit consent:** Consent given directly by outright telling the other party or parties that it is given.
 - **Auto-consent:** Automatic consent. This may be applied as a punishment for RP rule violations, or may optionally be enforced on oneself.
 
-### How consent works
+How consent works
+~~~~~~~~~~~~~~~~~
 
 **Consent is normally *required* to harm another roleplayer's character. Abuse of the consent system will result in staff voids and/or restrictions from roleplay.** Here is how the consent system works:
 
@@ -236,7 +244,8 @@ Staff can apply automatic consent to any or all of your characters as punishment
 
 **Note:** Unlike ILB, there is no such thing as "CRP consent" on Epsilon RP.
 
-### Consent for special abilities
+Consent for special abilities
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Separate consent is *required* for any staff-approved character ability marked as requiring such from targets. This is *separate* from regular consent. This kind of consent is automatically given if the target RPs that his character has been affected by the ability in question, so there's no need to give it explicitly. Revocation rules for this kind of consent are the same as for regular consent.
 
@@ -259,7 +268,8 @@ Character revival
 
 You must apply with staff to revive dead characters (as defined above in the consent section) in any way. Character revival is highly unlikely, and staff will almost always enforce temporary or permanent disadvantages, disabilities or other effects on revived characters depending on the method and circumstances of revival.
 
-### Revival application template
+Revival application template
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 When submitting revival applications, use the following template:
 
@@ -274,24 +284,28 @@ When submitting revival applications, use the following template:
 -   Do you consent to staff-decided penalties and side effects from cloning/revival?
 -   If "yes" to the above, do you have any suggestions? (This is to provide staff with an idea of what you want; there's no guarantee that this will affect the final result.)
 
-### Reviving KOed characters
+Reviving KOed characters
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Reviving a *KOed* character does not require staff permission, but there will be staff action if a KOed character is revived within an unreasonably short period of time when injuries are taken into consideration (usually less than 48 hours). You're responsible for handling KOs reasonably.
 
 Multi-clienting, reinforcements and NPC characters
 --------------------------------------------------
 
-### Multi-clienting
+Multi-clienting
+~~~~~~~~~~~~~~~
 
 Multi-clienting requires either explicit consent from everyone involved, or staff approval. Abuse of multi-clienting will result in staff action. Please keep it reasonable, folks! You may void unconsented multi-clienting at any time without consequence. The voided multi-clienter is responsible for IC explanation of voids and retcons, if one is not provided by staff.
 
-### NPC characters
+NPC characters
+~~~~~~~~~~~~~~
 
 *NPC characters* may be used for non-combat stuff like menial labour, clerical work or scientific research, but again, please keep it reasonable! Staff approval is required for non-combatant NPC characters that have unusual abilities or equipment, such as Miniknog mind transfer tech. Powergaming, metagaming and godmodding rules will be strictly enforced whenever NPC characters with unusual abilities or equipment are involved.
 
 *NPC combatants* are allowed in restricted situations if permission is given by staff, but any other use of NPC combatants is strictly *not* allowed. Staff reserve discretion in this matter -- consult staff about NPC combatants if you intend to use them. Any powergaming, metagaming, forced RP or other abuse of NPC combatants will result in denial or revocation of NPC combat permission. Feel free to report any abuse of NPCs you see to staff. The OOC controller of the combatants is responsible for IC explanation of voids and retcons, if one is not provided by staff.
 
-### Combat reinforcements
+Combat reinforcements
+~~~~~~~~~~~~~~~~~~~~~
 
 Reinforcements need to be called in *ICly* and usually take several turns to arrive (at least two), depending on the distance they need to travel. If there is no IC way to call in reinforcements or it is being blocked (e.g., a phone is knocked out of one's hand or there's an EMP), reinforcements cannot be called in until that is addressed (e.g., by picking up the radio or waiting until the EMP expires and using equipment that's not fried). Characters called as reinforcements *must* either have only civilian equipment or have a combat sheet already existing at the time reinforcements are called. Otherwise, only *non-combat* characters with basic equipment can be called in. Creating reinforcement character sheets "on demand" is powergaming/twinking and therefore not allowed, and NPCs *cannot* be called in as reinforcements without staff permission; staff action, which may include prohibiting characters from calling in reinforcements, will be taken if these rules are violated.
 
