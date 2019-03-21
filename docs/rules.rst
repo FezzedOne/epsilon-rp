@@ -126,7 +126,7 @@ Important stuff
 -   **Ignorance is no excuse or "get out of jail free" card. Please read the rules.**
 -   **Forced RP or other abuse or manipulation of the rules to one's own benefit (e.g., harassing a roleplayer into death consent) will lead to staff action. Don't play the rules game.** Victims of forced RP or rule abuse should immediately privately report it to the staff via Discord DMs.
 -   **Powergaming, godmodding and metagaming are NOT allowed.**
--   **Original characters please. References to other franchises are fine, but they are generally fictional in the in-character universe.** If you want to roleplay an existing franchise character, staff permission *and* an ironclad IC justification are required.
+-   **Original characters only. References to other franchises are fine, but they are generally fictional in the in-character universe.**
 -   **Staff permission is required to roleplay certain important lore characters, e.g., Clipped Council members.**
 -   **Magic and psionics are NOT allowed.** All character abilities and items should have some sort of reasonably realistic explanation behind them (within the realm of hard sci-fi). If you intend to roleplay existing characters with magical or psionic abilities, either retcon out the abilities or don't play the characters at all.
 -   **Character abilities, equipment and resources should be ICly justified and preferably balanced, with sensible weaknesses.** Don't just make a billionaire character willy-nilly. Roleplayers who make overpowered or "gamey" characters will have a chat with staff first.
@@ -144,7 +144,7 @@ General rules
 -   **Avoid IC references to OOC pop culture and memes unless it makes sense for your character to make such references.** After all, it's ICly the year 3219.
 -   **This is a serious roleplay community. Avoid shitpost/joke characters and gamey fourth-wall-breaking RP. Excessive or obnoxious fourth-wall breaking or overuse of shitpost/joke characters may lead to restrictions from roleplay.**
 -   **Please refrain from excessive and gratuitous IC insults or disparagement if OOCly requested.** Not everyone can handle this stuff or keep OOC and IC emotions separated. Consistent and callous disregard for or insensitivity to such OOC requests will lead to staff action.
--   **Cross-server roleplay is encouraged!** Bring in all the existing characters you want.
+-   **New characters are preferred, but existing characters are allowed.** Existing characters that you bring to Epsilon will not be "trapped", meaning that you can still roleplay them elsewhere (though there will likely be divergence in character arcs due to server lore).
 -   **Server lore takes precedence over vanilla lore on Epsilon RP.**
 -   **Roleplayers should try to resolve conflicts regarding roleplay rules before going to staff.** This should hopefully save everyone a lot of grief.
 -   Some combat-related rules may be ignored if consent from all parties is given *and* staff give the okay to it. Abuse of this stipulation is, however, not tolerated.
