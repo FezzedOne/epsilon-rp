@@ -10,7 +10,7 @@ General rules
 -   **Harassment and abuse of other community members are NOT allowed.** *Any* harassment or abuse of community members, or endorsement of such, within this community or in relation to Starbound roleplay falls under the purview of this rule. Violators may be permabanned without appeal or even preemptively banned before joining. If you are being harassed or abused over Starbound roleplay, feel free to privately report it to staff.
 -   **No spamming or botting.**
 -   **Profanity and swearing are allowed.** Just don't overdo it.
--   **Use brackets for out-of-character chat in in-character areas (e.g., #ic-comms, #space-rp and SB server hubs). Like this:**\
+-   **Use brackets for out-of-character chat in in-character areas (e.g., #comms and radio, #space and SB server hubs). Like this:**\
     (( This is OOC chat. ))
 -   **Keep in-character shitposting to a minimum.**
 -   **Keep out-of-character chat to a minimum in in-character areas.**
@@ -22,39 +22,39 @@ General rules
 Starbound server rules
 ----------------------
 
--   ***Do NOT hack, grief or intentionally lag the server.***
--   ***No griefing or raiding players' bases, ships and hubs.***
--   **Mods and modded items are allowed, but *don't connect with multiplayer-incompatible mods* (e.g., race mods and Frackin' Universe). Repeated attempts to connect with incompatible mods will result in a ban from the server.**
+-   **Do NOT hack, grief or intentionally lag the server.**
+-   **No griefing or raiding players' bases, ships and hubs.**
+-   **Mods and modded items are allowed, but don't connect with multiplayer-incompatible mods (e.g., race mods and Frackin' Universe). Repeated attempts to connect with incompatible mods will result in a ban from the server.**
 -   **Do not teleport to other player's ships without their permission or invitation at all. Period.**
--   **Theft of items and sprites is *NOT* tolerated. Do not dupe or steal others' modded items or sprites without permission.**
+-   **Theft of items and sprites is NOT tolerated. Do not dupe or steal others' modded items or sprites without permission.**
 -   **Avoid using laggy or spammy items and mods in roleplay areas. Obnoxious, flagrant or excessive demonstrations or use of laggy or spammy items will result in a kick or ban.**
--   **Do not place unbreakable objects for *any* reason. Unbreakables will be removed as soon as they're seen by admins. Spammers of unbreakable objects will be banned from the server.**
+-   **Do not place unbreakable objects for ANY reason. Unbreakables will be removed as soon as they're seen by admins. Spammers of unbreakable objects will be banned from the server.**
 -   Do not play instruments near other people who are playing instruments and do not switch instruments while playing music; the former is rude and the latter is laggy.
 -   If people ask you to stop playing instruments, be polite and do it.
 -   Avoid spamming in-game party invites.
 -   Please use local chat at all times within the server (in-character radio or comms broadcasts are an exception).
--   If you have any issues with the server, please ping staff in `#reports-and-requests` on Discord.
+-   If you have any issues with the server, please ping staff in ``#reports-and-requests`` on Discord.
 
 Discord server rules
 --------------------
 
--   **Discord's guidelines are enforced in this community. <u>[This link](https://discordapp.com/guidelines/)</u> explains Discord's stance on acceptable and unacceptable behaviour. These rules will be enforced by staff on a case-by-case basis. E.g., immediate permabans if lolicon, shotacon, cub porn or similar content is posted.**
+-   **Discord's guidelines are enforced in this community. `This link <https://discordapp.com/guidelines/>`_ explains Discord's stance on acceptable and unacceptable behaviour. These rules will be enforced by staff on a case-by-case basis. E.g., immediate permabans if lolicon, shotacon, cub porn or similar content is posted.**
 -   **Any content in violation of the above guidelines *will* be removed. No exceptions.**
 -   **Please do not post NSFW content of any kind.** Keep it to DMs.
--   **ERP is *NOT* allowed on the Discord server.** Again, *keep it to DMs*.
--   ***No political or religious discussion outside of `#political and religious discussion`.* These topics are very touchy and tend to lead to arguments and name-calling. Ask staff to give you permission to chat in the channel if you want to discuss this kind of stuff.**
--   ***Spam is NOT allowed, no matter what kind of content it is.***
--   ***Excessive shitposting is NOT allowed* -- this includes nicknames, avatars and the like. The Discord server is *NOT* your personal dumpster.** You can post memes and reaction images, but *don't overdo it*. Violation of this rule may result in immediate temporary revocation of image posting permissions, a mute or even a ban. 
+-   **ERP is NOT allowed on the Discord server.** Again, *keep it to DMs*.
+-   **No political or religious discussion outside of ``#political and religious discussion``.** These topics are very touchy and tend to lead to arguments and name-calling. Ask staff to give you permission to chat in the channel if you want to discuss this kind of stuff.**
+-   **Spam is NOT allowed, no matter what kind of content it is.**
+-   **Excessive shitposting is NOT allowed** -- **this includes nicknames, avatars and the like. The Discord server is NOT your personal dumpster.** You can post memes and reaction images, but *don't overdo it*. Violation of this rule may result in immediate temporary revocation of image posting permissions, a mute or even a ban. 
 -   **Memes and reaction images should not greatly interfere with ongoing discussion.** Again, exercise restraint -- staff are not your babysitters.
 -   **Avoid out-of-character racist, homophobic, bigoted or otherwise discriminatory commentary. There's no reason to post it.**
 -   **Avoid name-calling and shouting matches.**
--   **Please do not derail discussions in `ROLEPLAY DISCUSSION`.**
+-   **Please do not derail discussions in ``ROLEPLAY DISCUSSION``.**
 -   Observe basic netiquette in general.
 
 Applications, appeals and approval
 ----------------------------------
 
--   **In order to be able to roleplay on Epsilon RP, you must submit an application in `#applications` on the Discord server.** The application template is pinned in that channel. Those who do not apply to become community members will be kicked after two weeks, no questions asked.
+-   **In order to be able to roleplay on Epsilon RP, you must submit an application in ``#applications`` on the Discord server.** The application template is pinned in that channel. Those who do not apply to become community members will be kicked after two weeks, no questions asked.
 -   **You have two weeks to appeal a rejected application before you are kicked from the community.**
 -   **Appeal bans, mutes and other staff punishments by DMing any moderator or admin.** You must submit your appeal within two weeks of being banned; otherwise, it will not be accepted and your ban becomes permanent. There is no time limit when appealing mutes and other punishments.
 
@@ -121,7 +121,7 @@ Read these before roleplaying on Epsilon RP. *IC* stands for *in-character* and 
 Important stuff
 ~~~~~~~~~~~~~~~
 
--   ***Use common sense.*** There's no telling how many problems could be resolved or avoided by following this one simple rule.
+-   **Use common sense.** There's no telling how many problems could be resolved or avoided by following this one simple rule.
 -   **If a staff member tells you there's a problem, there's a problem. Do not ignore staff just because your violation is not explicitly listed or referenced in the rules.** Staff will try to work with you to correct the problem without resorting to staff action.
 -   **Ignorance is no excuse or "get out of jail free" card. Please read the rules.**
 -   **Forced RP or other abuse or manipulation of the rules to one's own benefit (e.g., harassing a roleplayer into death consent) will lead to staff action. Don't play the rules game.** Victims of forced RP or rule abuse should immediately privately report it to the staff via Discord DMs.
@@ -153,7 +153,7 @@ General rules
 Sheets, pages and lore
 ----------------------
 
-**Check the requirements below to see if you need sheets or pages for your characters, equipment, factions or whatever.** If in doubt as to whether you need sheets, write and post them. You may post sheets on Discord in the `SHEETS AND LORE` channels (the latter option is recommended for newcomers). Character sheets should come with a picture of the associated character. Sheets/pages and approval are **always** required whenever staff say so, and staff may rework sheets and pages if they see issues with them. You will be notified if this kind of situation should come up. If you have any special requirements, such as keeping sheet-requiring stuff out of OOC knowledge to prevent metagaming, feel free to ask staff.
+**Check the requirements below to see if you need sheets or pages for your characters, equipment, factions or whatever.** If in doubt as to whether you need sheets, write and post them. You may post sheets on Discord in the ``SHEETS AND LORE`` channels (the latter option is recommended for newcomers). Character sheets should come with a picture of the associated character. Sheets/pages and approval are **always** required whenever staff say so, and staff may rework sheets and pages if they see issues with them. You will be notified if this kind of situation should come up. If you have any special requirements, such as keeping sheet-requiring stuff out of OOC knowledge to prevent metagaming, feel free to ask staff.
 
 Stuff that DOES NOT require sheets/pages
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -225,7 +225,7 @@ Definitions
 How consent works
 ~~~~~~~~~~~~~~~~~
 
-**Consent is normally *required* to harm another roleplayer's character. Abuse of the consent system will result in staff voids and/or restrictions from roleplay.** Here is how the consent system works:
+Consent is normally *required* to harm another roleplayer's character. Abuse of the consent system will result in staff voids and/or restrictions from roleplay. Here is how the consent system works:
 
 -   *If your character did not instigate or otherwise start the fight*, you have the full right to consent against death, KO, incap, maiming and even injury, *unless* your character falls under any exceptions below.
 -   *If your character instigated the encounter but isn't the aggressor*, you lose consent against injury for that encounter.
@@ -318,7 +318,7 @@ Combat and ability rules and guidelines
 ---------------------------------------
 
 -   *Try to roleplay combat and abilities sensibly.* The most important rule of all in this section.
--   *No ship combat in planetary atmospheres or within 100 km (ICly) of hubs or planetary surfaces.* By the way, space RP is generally done in `#space` on the Discord server, not on the SB server, although you may RP radio transmissions from space and effects on planetary surfaces below on the SB server.
+-   *No ship combat in planetary atmospheres or within 100 km (ICly) of hubs or planetary surfaces.* By the way, space RP is generally done in ``#space`` on the Discord server, not on the SB server, although you may RP radio transmissions from space and effects on planetary surfaces below on the SB server.
 -   *Mechs and mechsuits* require special ability consent (as listed above) to use.
 -   *Ships, mechs and mechsuits should require six to eight turns to summon and two or three turns to get in when in CRP.* Hoverbikes, motorbikes and the like should require one or two turns to get in.
 -   *Mind your weapon drawing and reloading.* Unless you have very fast reflexes, you cannot draw a two-handed gun and fire it in the same turn. Firing a handgun as you draw it results in poor accuracy. It takes one or two turns to reload a gun. It takes two or three turns to draw a bow before releasing an arrow, or it won't get very far. You usually need a whole turn to draw a sword (but a knife can be used in the same turn it's drawn, usually). As far as drawing other weapons goes, balance them sensibly.
