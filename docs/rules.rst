@@ -10,7 +10,7 @@ General rules
 -   **Harassment and abuse of other community members are NOT allowed.** *Any* harassment or abuse of community members, or endorsement of such, within this community or in relation to Starbound roleplay falls under the purview of this rule. Violators may be permabanned without appeal or even preemptively banned before joining. If you are being harassed or abused over Starbound roleplay, feel free to privately report it to staff.
 -   **No spamming or botting.**
 -   **Profanity and swearing are allowed.** Just don't overdo it.
--   **Use brackets for out-of-character chat in in-character areas (e.g., #comms and radio, #space and SB server hubs). Like this:**\
+-   **Use brackets for out-of-character chat in in-character areas (e.g., #comms and radio, #space and SB server hubs). Like this:**
     (( This is OOC chat. ))
 -   **Keep in-character shitposting to a minimum.**
 -   **Keep out-of-character chat to a minimum in in-character areas.**
