@@ -42,9 +42,9 @@ Discord server rules
 -   **Any content in violation of the above guidelines *will* be removed. No exceptions.**
 -   **Please do not post NSFW content of any kind.** Keep it to DMs.
 -   **ERP is NOT allowed on the Discord server.** Again, *keep it to DMs*.
--   **No political or religious discussion outside of** ``#political and religious discussion``. **These topics are very touchy and tend to lead to arguments and name-calling. Ask staff to give you permission to chat in the channel if you want to discuss this kind of stuff.**
+-   **No political or religious discussion.**
 -   **Spam is NOT allowed, no matter what kind of content it is.**
--   **Excessive shitposting is NOT allowed** -- **this includes nicknames, avatars and the like. The Discord server is NOT your personal dumpster.** You can post memes and reaction images, but *don't overdo it*. Violation of this rule may result in immediate temporary revocation of image posting permissions, a mute or even a ban. 
+-   **Shitposting is NOT allowed** -- **this includes nicknames, avatars and the like. The Discord server is NOT your personal dumpster.** You can post memes and reaction images, but *don't overdo it*. Violation of this rule may result in immediate temporary revocation of image posting permissions, a mute or even a ban. 
 -   **Memes and reaction images should not greatly interfere with ongoing discussion.** Again, exercise restraint -- staff are not your babysitters.
 -   **Avoid out-of-character racist, homophobic, bigoted or otherwise discriminatory commentary. There's no reason to post it.**
 -   **Avoid name-calling and shouting matches.**
