@@ -44,8 +44,8 @@ Applications, appeals and approval
 ----------------------------------
 
 -   **In order to be able to roleplay in the evacuation camp hub, you must apply on the Discord server.** The application template is pinned in that channel. Those who do not apply to become community members will be kicked after two weeks, no questions asked.
--   **You have two weeks to appeal a rejected application before you are kicked from the community.**
--   **Appeal bans, mutes and other staff punishments by DMing any moderator or admin.** You must submit your appeal within two weeks of being banned; otherwise, it will not be accepted and your ban becomes permanent. There is no time limit when appealing mutes and other punishments.
+-   **You have two weeks to appeal a rejected application before you are kicked from the hub and Discord server.**
+-   **Appeal Discord/hub bans, mutes and other staff punishments by DMing any staff member.** You must submit your appeal within two weeks of being banned; otherwise, it will not be accepted and your ban becomes permanent. There is no time limit when appealing mutes and other punishments.
 
 Application template
 ~~~~~~~~~~~~~~~~~~~
