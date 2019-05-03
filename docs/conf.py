@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Epsilon RP'
+project = 'Tlalotl\'s Evacuation Camp'
 copyright = '2019, FezzedOne'
 author = 'FezzedOne'
 
@@ -128,7 +128,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'EpsilonRP.tex', 'Epsilon RP Documentation',
+    (master_doc, 'EpsilonRP.tex', 'Hub Rules',
      'FezzedOne', 'manual'),
 ]
 
@@ -138,7 +138,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'epsilonrp', 'Epsilon RP Documentation',
+    (master_doc, 'epsilonrp', 'Hub Rules',
      [author], 1)
 ]
 
@@ -149,8 +149,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'EpsilonRP', 'Epsilon RP Documentation',
-     author, 'EpsilonRP', 'One line description of project.',
+    (master_doc, 'EpsilonRP', 'Hub Rules',
+     author, 'EpsilonRP', 'The hub rules.',
      'Miscellaneous'),
 ]
 
