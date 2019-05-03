@@ -19,6 +19,11 @@ General rules
 -   Try to use good spelling and grammar on the Discord and server. In-character affectations, such as accents, lisps and writing styles, are perfectly fine and even encouraged, as long as they aren't intentionally obnoxious in an out-of-character manner.
 -   It is recommended that you use SI/metric units here. Imperial/customary measurements (e.g., feet, inches, pounds) in roleplay sheets will be converted to metric by staff.
 
+iLoveBacons rules
+-----------------
+
+`The iLoveBacons community guidelines <https://ilovebacons.com/rules/>` apply to the evacuation camp hub. **Any violations of the community guidelines will be reported to iLoveBacons staff.**
+
 Discord server rules
 --------------------
 
@@ -38,7 +43,7 @@ Discord server rules
 Applications, appeals and approval
 ----------------------------------
 
--   **In order to be able to roleplay on Epsilon RP, you must submit an application in** ``#applications`` **on the Discord server.** The application template is pinned in that channel. Those who do not apply to become community members will be kicked after two weeks, no questions asked.
+-   **In order to be able to roleplay in the evacuation camp hub, you must apply on the Discord server.** The application template is pinned in that channel. Those who do not apply to become community members will be kicked after two weeks, no questions asked.
 -   **You have two weeks to appeal a rejected application before you are kicked from the community.**
 -   **Appeal bans, mutes and other staff punishments by DMing any moderator or admin.** You must submit your appeal within two weeks of being banned; otherwise, it will not be accepted and your ban becomes permanent. There is no time limit when appealing mutes and other punishments.
 
@@ -78,12 +83,12 @@ Appeal template
    Ditto again. *Required.*
 
 -   **Do you know anyone who can vouch for you?**
-   They don't need to be on Epsilon RP. *Required.*
+   They don't need to be a member of the evacuation camp hub or Discord server. *Required.*
 
 Roleplay rules
 ==============
 
-Read these before roleplaying on Epsilon RP. *IC* stands for *in-character* and *OOC* stands for *out-of-character*. *ERP* stands for *erotic roleplay* and *CRP* stands for *combat roleplay*.
+Read these before roleplaying in the evacuation camp hub or Discord server. *IC* stands for *in-character* and *OOC* stands for *out-of-character*. *ERP* stands for *erotic roleplay* and *CRP* stands for *combat roleplay*.
 
 ### Definitions
 
@@ -129,7 +134,7 @@ General rules
 -   **This is a serious roleplay community. Avoid shitpost/joke characters and gamey fourth-wall-breaking RP. Excessive or obnoxious fourth-wall breaking or overuse of shitpost/joke characters may lead to restrictions from roleplay.**
 -   **Please refrain from excessive and gratuitous IC insults or disparagement if OOCly requested.** Not everyone can handle this stuff or keep OOC and IC emotions separated. Consistent and callous disregard for or insensitivity to such OOC requests will lead to staff action.
 -   **New characters are preferred, but existing characters are allowed.** Existing characters that you bring to Epsilon will not be "trapped", meaning that you can still roleplay them elsewhere (though there will likely be divergence in character arcs due to server lore).
--   **Server lore takes precedence over vanilla lore on Epsilon RP.**
+-   **Vanilla lore is used in the evacuation camp hub and Discord server.**
 -   **Roleplayers should try to resolve conflicts regarding roleplay rules before going to staff.** This should hopefully save everyone a lot of grief.
 -   Some combat-related rules may be ignored if consent from all parties is given *and* staff give the okay to it. Abuse of this stipulation is, however, not tolerated.
 -   *In-game day/night cycles and weather are to be taken as in-roleplay conditions* (they have been modified on the server to be more realistic).
@@ -229,7 +234,7 @@ You may revoke consent as long as the action consented to hasn't already been RP
 
 Staff can apply automatic consent to any or all of your characters as punishment for rule violations; e.g., your characters may be required to consent to incap, KO or even death as punishment for repeated munchkin behaviour. Staff may also override consent rules for events and other reasons; e.g., characters that KO or kill multiple characters during an event may be allowed to keep consent against KO and not have the KOs and deaths count against them.
 
-**Note:** Unlike ILB, there is no such thing as "CRP consent" on Epsilon RP.
+**Note:** Unlike Port Lux, there is no such thing as "CRP consent" in the evacuation camp hub or Discord server.
 
 Consent for special abilities
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
