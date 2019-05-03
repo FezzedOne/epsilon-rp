@@ -40,51 +40,6 @@ Discord server rules
 -   **Please do not derail discussions in** ``ROLEPLAY DISCUSSION``.
 -   Observe basic netiquette in general.
 
-Applications, appeals and approval
-----------------------------------
-
--   **In order to be able to roleplay in the evacuation camp hub, you must apply on the Discord server.** The application template is pinned in that channel. Those who do not apply to become community members will be kicked after two weeks, no questions asked.
--   **You have two weeks to appeal a rejected application before you are kicked from the hub and Discord server.**
--   **Appeal Discord/hub bans, mutes and other staff punishments by DMing any staff member.** You must submit your appeal within two weeks of being banned; otherwise, it will not be accepted and your ban becomes permanent. There is no time limit when appealing mutes and other punishments.
-
-Application template
-~~~~~~~~~~~~~~~~~~~
-
--   **Age:**
-   Your age here. *You are required to state at least whether you are under 18. Specifying age in years is highly recommended.*
-
--   **How did you come to us?**
-   Please tell us how you came to us. *Optional.*
-
--   **Why have you come?**
-   Tell us why you're here. Did you come to roleplay? To   contribute art? Modding skills? *Required.*
-
--   **Do you have any previous roleplay experience?**
-   Also tell us if you have any previous moderation or building   experience. *Required.*
-
--   **What is metagaming?**
-   Explain what metagaming is, in your own words. *Required.*
-
--   **What is powergaming?**
-   Same as the last question. *Required.*
-
--   **Do you agree to the rules?** Yes/no. *Required.*
-
-Appeal template
-~~~~~~~~~~~~~~~
-
--   **What violation are you appealing?**
-   What it says on the tin. *Required.*
-
--   **Why are you appealing?**
-   Ditto. *Required.*
-
--   **Will you follow the rules next time?**
-   Ditto again. *Required.*
-
--   **Do you know anyone who can vouch for you?**
-   They don't need to be a member of the evacuation camp hub or Discord server. *Required.*
-
 Roleplay rules
 ==============
 
@@ -141,43 +96,9 @@ General rules
 Sheets, pages and lore
 ----------------------
 
-**Check the requirements below to see if you need sheets or pages for your characters, equipment, factions or whatever.** If in doubt as to whether you need sheets, write and post them. You may post sheets on Discord in the ``SHEETS AND LORE`` channels (the latter option is recommended for newcomers). Character sheets should come with a picture of the associated character. Sheets/pages and approval are **always** required whenever staff say so, and staff may rework sheets and pages if they see issues with them. You will be notified if this kind of situation should come up. If you have any special requirements, such as keeping sheet-requiring stuff out of OOC knowledge to prevent metagaming, feel free to ask staff.
+**Check the requirements below to see if you should make sheets for your characters, equipment, factions or whatever.** If in doubt, we recommend you post sheets. You may post sheets on ILB's `RP sheet database <https://ilovebacons.com/forums/rp-sheets-database.21/>`_. Character sheets should come with a picture of the associated character. Sheets/pages are **always** required whenever hub staff say so, and staff may recommend reworking sheets and pages if they see issues with them. You will be notified if this kind of situation should come up. If you have any special preferences, such as keeping sheet-requiring stuff out of OOC knowledge to prevent metagaming, feel free to talk to hub staff about it.
 
-Stuff that DOES NOT require sheets/pages
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
--   Ordinary civilian equipment, such as tasers, bear/pepper spray, crowbars and baseball bats.
--   Conventional civilian firearms (handguns, hunting rifles, etc.).
--   Combat knives.
--   Ordinary civilian characters.
--   Membership in factions.
--   Mercenaries and bounty hunters with ordinary equipment and abilities -- sheets are still recommended for those.
--   Magical and psionic abilities and spells that do not provide a combat advantage.
--   Sub-races of vanilla races, as long as they don't have advantages or significant disadvantages.
--   Civilian-grade prosthetics with no special advantages. Exoskeletons with no special advantages, designed to mitigate disabilities.
-
-Stuff that DOES require sheets/pages
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
--   Highly armed characters in general.
--   Non-civilian firearms (assault rifles, sniper rifles, plasma weapons, etc.).
--   Custom-made or tinkered items.
--   Any kind of armour beyond bulletproof vests, combat helmets and sports equipment.
--   Any item made of materials or alloys beyond the durasteel tier.
--   Generally, anything you wouldn't expect an ordinary civilian to possess.
--   Leadership of factions.
--   Any character with 500,000 or more pixels in the bank, or with more than 1,500,000 pixels in assets (land, equipment, etc.).
--   Any character with non-combat NPC servants or slaves.
--   Any augments, genemods, cybernetics or medical conditions that provide advantages or significant disadvantages.
--   Magical and psionic abilities that provide a combat advantage.
--   Non-vanilla races or sub-races.
--   Combat-grade prosthetics.
--   Light combat exoskeletons.
-
-Stuff that requires staff approval
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-The stuff below requires staff approval. If in doubt as to whether you need items, characters, factions or whatever approved, ask staff.
+Sheets are generally *recommended* for the stuff below:
 
 -   Non-small arms and sniper rifles.
 -   Anything made of impervium, black diamonds or diamondoid.
