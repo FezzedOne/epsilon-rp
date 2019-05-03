@@ -109,7 +109,7 @@ Sheets are generally *recommended* for the stuff below:
 -   Any character with more than 10 million pixels in assets.
 -   Synthetic or robotic characters, if they have any kind of backups.
 -   Very powerful and/or OP abilities of any kind, such as infinite flight with few limitations.
--   Any kind of neural backup or cloning/revival/uploading tech. All backups and revival tech must be documented on the character's sheet, and a character can only have limited backups.
+-   Any kind of neural backup or cloning/revival/uploading tech.
 -   Hive-minded characters, characters controlled by parasites or anything in that vein.
 
 Consent rules
