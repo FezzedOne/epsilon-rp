@@ -22,7 +22,7 @@ General rules
 iLoveBacons rules
 -----------------
 
-`The iLoveBacons community guidelines <https://ilovebacons.com/rules/>` apply to the evacuation camp hub. **Any violations of the community guidelines will be reported to iLoveBacons staff.**
+`The iLoveBacons community guidelines <https://ilovebacons.com/rules/>`_ apply to the evacuation camp hub. **Any violations of the community guidelines will be reported to iLoveBacons staff.**
 
 Discord server rules
 --------------------
