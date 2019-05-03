@@ -101,14 +101,14 @@ Sheets, pages and lore
 Sheets are generally *recommended* for the stuff below:
 
 -   Non-small arms and sniper rifles.
--   Anything made of impervium, black diamonds or diamondoid.
+-   Anything made of impervium, avolite crystals, diamondoid or other very high-tier or rare materials.
 -   Power armour.
 -   Mechs and mechsuits.
 -   Characters with access to NPC combat assistance or NPC combatants under their control or leadership.
 -   Very powerful factions with more than a hundred or so NPC members.
 -   Any character with more than 10 million pixels in assets.
 -   Synthetic or robotic characters, if they have any kind of backups.
--   Very powerful and/or OP magical and psionic abilities, such as infinite flight with few limitations.
+-   Very powerful and/or OP abilities of any kind, such as infinite flight with few limitations.
 -   Any kind of neural backup or cloning/revival/uploading tech. All backups and revival tech must be documented on the character's sheet, and a character can only have limited backups.
 -   Hive-minded characters, characters controlled by parasites or anything in that vein.
 
