@@ -10,13 +10,13 @@ General rules
 -   **Harassment and abuse of other community members are NOT allowed.** *Any* harassment or abuse of community members, or endorsement of such, within this community or in relation to Starbound roleplay falls under the purview of this rule. Violators may be permabanned without appeal or even preemptively banned before joining. If you are being harassed or abused over Starbound roleplay, feel free to privately report it to staff.
 -   **No spamming or botting.**
 -   **Profanity and swearing are allowed.** Just don't overdo it.
--   **Use brackets for out-of-character chat in in-character areas** -- e.g., ``#comms`` and SB server hubs. Like this:
+-   **Use brackets for out-of-character chat in in-character areas** -- e.g., ``#comms`` and the hub. Like this:
     (( This is OOC chat. ))
 -   **Keep in-character shitposting to a minimum.**
 -   **Keep out-of-character chat to a minimum in in-character areas.**
 -   **Playing the rules game, making frivolous reports to staff and other abusive behaviour are not tolerated.**
 -   **If staff say there's an issue, there's an issue. Don't play games over this.**
--   Try to use good spelling and grammar on the Discord and server. In-character affectations, such as accents, lisps and writing styles, are perfectly fine and even encouraged, as long as they aren't intentionally obnoxious in an out-of-character manner.
+-   Try to use good spelling and grammar on the Discord and hub. In-character affectations, such as accents, lisps and writing styles, are perfectly fine and even encouraged, as long as they aren't intentionally obnoxious in an out-of-character manner.
 -   It is recommended that you use SI/metric units here. Imperial/customary measurements (e.g., feet, inches, pounds) in roleplay sheets will be converted to metric by staff.
 
 iLoveBacons rules
@@ -105,7 +105,7 @@ Read these before roleplaying in the evacuation camp hub or Discord server. *IC*
 - **Spite RP:** Adjusting a character's behaviour or actions based on OOC relationships and vendettas. Sometimes, spite RP goes to the point of outright harassment.
 - **Forced RP:** Abuse or bending of the rules in order to force an RP action on someone else's character.
 - **Non-player character (NPC):** Any character not directly RPed by any player.
-- **Multi-clienting:** Connecting to the server with multiple SB clients to be able to RP multiple characters.
+- **Multi-clienting:** Being present on the hub with multiple SB clients to be able to RP multiple characters.
 
 Important stuff
 ~~~~~~~~~~~~~~~
@@ -126,18 +126,17 @@ General rules
 
 -   **All roleplayers MUST be mature. However, underage/immature *characters* are permitted. You must be 18+ to see NSFW content though.**
 -   **Metagaming, powergaming and godmodding are not allowed.** Please report such incidents to staff or RP monitors.
--   **ERP is *NOT ALLOWED* on the server, in the wiki, or in the RP channels.** If you want to ERP, do it in Discord DMs.
+-   **ERP is *NOT ALLOWED* on the hub or in the RP channels.** If you want to ERP, do it in Discord DMs.
 -   **Underage ERP, regardless of whether it's the roleplayers or characters, or both, that are underage, *even if implied*, will be *swiftly and immediately met with a permanent ban*. No excuses or appeals.**
 -   **Keep ERP to private Discord DMs. Public ERP on the server *á la maniére de Stallion* will be met with a swift ban, and private ERP on the server will lead to staff action.**
 -   **Keep OOC chat to a minimum on roleplay hubs and IC channels.**
 -   **Avoid IC references to OOC pop culture and memes unless it makes sense for your character to make such references.** After all, it's ICly the year 3219.
 -   **This is a serious roleplay community. Avoid shitpost/joke characters and gamey fourth-wall-breaking RP. Excessive or obnoxious fourth-wall breaking or overuse of shitpost/joke characters may lead to restrictions from roleplay.**
 -   **Please refrain from excessive and gratuitous IC insults or disparagement if OOCly requested.** Not everyone can handle this stuff or keep OOC and IC emotions separated. Consistent and callous disregard for or insensitivity to such OOC requests will lead to staff action.
--   **New characters are preferred, but existing characters are allowed.** Existing characters that you bring to Epsilon will not be "trapped", meaning that you can still roleplay them elsewhere (though there will likely be divergence in character arcs due to server lore).
--   **Vanilla lore is used in the evacuation camp hub and Discord server.**
+-   **Please tell us there are inconsistencies between the Lux version and camp version of your character(s).** We'll try to resolve the matter with Lux staff.
+-   **Vanilla lore (as well as relevant Port Lux lore) is used in the evacuation camp hub and Discord server.**
 -   **Roleplayers should try to resolve conflicts regarding roleplay rules before going to staff.** This should hopefully save everyone a lot of grief.
 -   Some combat-related rules may be ignored if consent from all parties is given *and* staff give the okay to it. Abuse of this stipulation is, however, not tolerated.
--   *In-game day/night cycles and weather are to be taken as in-roleplay conditions* (they have been modified on the server to be more realistic).
 
 Sheets, pages and lore
 ----------------------
@@ -271,7 +270,7 @@ When submitting revival applications, use the following template:
 -   How was your character killed, and who or what killed them?
 -   Is your character of a common race or an uncommon race? Which race is it?
 -   Do your character's race or traits make revival/cloning/uploading difficult?
--   Has your character been revived previously? (Please include **all** instances of revival/cloning/uploading that affect the version of your character seen on-server, including off-server background.)
+-   Has your character been revived previously? (Please include **all** instances of revival/cloning/uploading that affect the version of your character seen on the hub, including off-hub background.)
 -   What were the circumstances of their most recent death?
 -   Do you consent to staff-decided penalties and side effects from cloning/revival?
 -   If "yes" to the above, do you have any suggestions? (This is to provide staff with an idea of what you want; there's no guarantee that this will affect the final result.)
@@ -310,9 +309,9 @@ Combat and ability rules and guidelines
 ---------------------------------------
 
 -   *Try to roleplay combat and abilities sensibly.* The most important rule of all in this section.
--   *No ship combat in planetary atmospheres or within 100 km (ICly) of hubs or planetary surfaces.* By the way, space RP is generally done in ``#space`` on the Discord server, not on the SB server, although you may RP radio transmissions from space and effects on planetary surfaces below on the SB server.
+-   *No ship combat in planetary atmospheres or within 100 km (ICly) of hubs or planetary surfaces.* By the way, space RP is generally done in ``#space`` on the Discord server although you may RP it on the hub too.
 -   *Mechs and mechsuits* require special ability consent (as listed above) to use.
 -   *Ships, mechs and mechsuits should require six to eight turns to summon and two or three turns to get in when in CRP.* Hoverbikes, motorbikes and the like should require one or two turns to get in.
 -   *Mind your weapon drawing and reloading.* Unless you have very fast reflexes, you cannot draw a two-handed gun and fire it in the same turn. Firing a handgun as you draw it results in poor accuracy. It takes one or two turns to reload a gun. It takes two or three turns to draw a bow before releasing an arrow, or it won't get very far. You usually need a whole turn to draw a sword (but a knife can be used in the same turn it's drawn, usually). As far as drawing other weapons goes, balance them sensibly.
 -   *Disguises and makeup* are allowed without consent, but *surgery, DNA modification and detailed shapeshifting* require consent from the RPer whose character is used as the disguise. (No consent is required if the disguise character is RPed or was created by the same RPer, obviously.)
--   *The above rules may be overridden by staff.*
+-   *The above rules may be overridden by hub staff.*
