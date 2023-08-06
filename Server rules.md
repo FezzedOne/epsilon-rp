@@ -1,5 +1,5 @@
-RULES -- EPSILON RP
-===================
+RULES — STARBOUND ZETA
+======================
 
 All community members must abide by the **rules** below, even if they are not active roleplayers. *Important rules are in bold and italic text.*
 
@@ -7,7 +7,7 @@ General rules
 =============
 
 -   **Do not bring a toxic and shitty attitude to this community. If you don't like it, there's the door.**
--   **Harassment and abuse of other community members are NOT allowed.** *Any* harassment or abuse of community members, or endorsement of such, within this community or in relation to Starbound roleplay falls under the purview of this rule. Violators may be permabanned without appeal or even preemptively banned before joining. If you are being harassed or abused over Starbound roleplay, feel free to privately report it to staff.
+-   **Harassment and abuse of other community members are NOT allowed.** *Any* harassment or abuse of community members, or endorsement of such, within this community or in relation to Starbound roleplay, falls under the purview of this rule. Violators may be permabanned or even preemptively banned before joining; preemptive bans will be publicly listed. If you are being harassed or abused over Starbound roleplay, feel free to privately report it to staff.
 -   **No spamming or botting.**
 -   **Profanity and swearing are allowed.** Just don't overdo it.
 -   **Use brackets for out-of-character chat in in-character areas (e.g., #ic-comms, #space-rp and SB server hubs). Like this:**\
@@ -17,7 +17,7 @@ General rules
 -   **Playing the rules game, making frivolous reports to staff and other abusive behaviour are not tolerated.**
 -   **If staff say there's an issue, there's an issue. Don't play games over this.**
 -   Try to use good spelling and grammar on the Discord and server. In-character affectations, such as accents, lisps and writing styles, are perfectly fine and even encouraged, as long as they aren't intentionally obnoxious in an out-of-character manner.
--   It is recommended that you use SI/metric units here. Imperial/customary measurements (e.g., feet, inches, pounds) in roleplay sheets will be converted to metric by staff.
+-   It's recommended that you have at least a basic understanding of metric/SI units. Unconverted imperial/customary measurements (e.g., feet, inches, pounds) in roleplay sheets will have a metric conversion supplied by staff.
 
 Starbound server rules
 ----------------------
@@ -25,28 +25,27 @@ Starbound server rules
 -   ***Do NOT hack, grief or intentionally lag the server.***
 -   ***No griefing or raiding players' bases, ships and hubs.***
 -   **Mods and modded items are allowed, but *don't connect with multiplayer-incompatible mods* (e.g., race mods and Frackin' Universe). Repeated attempts to connect with incompatible mods will result in a ban from the server.**
--   **Do not teleport to other player's ships without their permission or invitation at all. Period.**
--   **Theft of items and sprites is *NOT* tolerated. Do not dupe or steal others' modded items or sprites without permission.**
+-   **Plagiarism and theft of items and sprites is *NOT* tolerated. Do not dupe or steal others' modded items or sprites without permission.**
 -   **Avoid using laggy or spammy items and mods in roleplay areas. Obnoxious, flagrant or excessive demonstrations or use of laggy or spammy items will result in a kick or ban.**
--   **Do not place unbreakable objects for *any* reason. Unbreakables will be removed as soon as they're seen by admins. Spammers of unbreakable objects will be banned from the server.**
+-   **Don't bring up irrelevant OOC politics or religion.** "Irrelevant" includes leaving around politically fraught items, objects, references, etc., that are ICly out of place for your characters and the setting.
 -   Do not play instruments near other people who are playing instruments and do not switch instruments while playing music; the former is rude and the latter is laggy.
--   If people ask you to stop playing instruments, be polite and do it.
+-   If people ask you to stop playing instruments, be polite and do it. Some people listen to their own music, you know.
 -   Avoid spamming in-game party invites.
 -   Please use local chat at all times within the server (in-character radio or comms broadcasts are an exception).
+-   **In general, don't be an ass on the server.**
 -   If you have any issues with the server, please ping staff in `#reports-and-requests` on Discord.
 
 Discord server rules
 --------------------
 
--   **Discord's guidelines are enforced in this community. <u>[This link](https://discordapp.com/guidelines/)</u> explains Discord's stance on acceptable and unacceptable behaviour. These rules will be enforced by staff on a case-by-case basis. E.g., immediate permabans if lolicon, shotacon, cub porn or similar content is posted.**
--   **Any content in violation of the above guidelines *will* be removed. No exceptions.**
 -   **Please do not post NSFW content of any kind.** Keep it to DMs.
 -   **ERP is *NOT* allowed on the Discord server.** Again, *keep it to DMs*.
--   ***No political or religious discussion outside of `#political and religious discussion`.* These topics are very touchy and tend to lead to arguments and name-calling. Ask staff to give you permission to chat in the channel if you want to discuss this kind of stuff.**
+-   **Underage NSFW content will result in an immediate permaban without appeal. DON'T DO IT.**
+-   ***NO political or religious discussion outside of `#political and religious discussion`.* These topics are very touchy and tend to lead to arguments and name-calling. Ask staff to give you permission to chat in the channel if you want to discuss this kind of stuff.**
 -   ***Spam is NOT allowed, no matter what kind of content it is.***
--   ***Excessive shitposting is NOT allowed* -- this includes nicknames, avatars and the like. The Discord server is *NOT* your personal dumpster.** You can post memes and reaction images, but *don't overdo it*. Violation of this rule may result in immediate temporary revocation of image posting permissions, a mute or even a ban. 
+-   ***Excessive shitposting is NOT allowed* -- this includes nicknames, avatars and the like. The Discord server is *NOT* your personal dumpster.** You can post memes and reaction images, but *don't overdo it*. Violation of this rule may result in immediate temporary revocation of image posting permissions, a mute or even a ban.
 -   **Memes and reaction images should not greatly interfere with ongoing discussion.** Again, exercise restraint -- staff are not your babysitters.
--   **Avoid out-of-character racist, homophobic, bigoted or otherwise discriminatory commentary. There's no reason to post it.**
+-   **Avoid out-of-character racist, wokist, homophobic, bigoted or otherwise discriminatory commentary. There's no reason to post it.**
 -   **Avoid name-calling and shouting matches.**
 -   **Please do not derail discussions in `ROLEPLAY DISCUSSION`.**
 -   Observe basic netiquette in general.
@@ -54,20 +53,20 @@ Discord server rules
 Applications, appeals and approval
 ----------------------------------
 
--   **In order to be able to roleplay on Epsilon RP, you must submit an application in `#applications` on the Discord server.** The application template is pinned in that channel. Those who do not apply to become community members will be kicked after two weeks, no questions asked.
+-   **In order to be able to roleplay on Starbound Zeta, you must submit an application in `#applications` on the Discord server.** The application template is pinned in that channel. Those who do not apply to become community members will be kicked after two weeks, no questions asked.
 -   **You have two weeks to appeal a rejected application before you are kicked from the community.**
--   **Appeal bans, mutes and other staff punishments by DMing any moderator or admin.** You must submit your appeal within two weeks of being banned; otherwise, it will not be accepted and your ban becomes permanent. There is no time limit when appealing mutes and other punishments.
+-   **Appeal bans, mutes and other staff punishments by DMing any moderator or admin.**
 
 ### Application template
 
 -   **Age:**
-   Your age (in years) here. *Required.*
+   Your age (in years) here. This may be "spot-checked" by staff, who may require you to join (and speak) in voice chat for a minute or so. *Required.*
 
 -   **How did you come to us?**
    Please tell us how you came to us. *Optional.*
 
--   **Why have you come?**
-   Tell us why you're here. Did you come to roleplay? To   contribute art? Modding skills? *Required.*
+-   **Why did you come?**
+   Tell us why you're here. Did you come to roleplay? To contribute art? Modding skills? *Required.*
 
 -   **Do you have any previous roleplay experience?**
    Also tell us if you have any previous moderation or building   experience. *Required.*
@@ -91,41 +90,42 @@ Applications, appeals and approval
 -   **Will you follow the rules next time?**
    Ditto again. *Required.*
 
--   **Do you know anyone who can vouch for you?**
-   They don't need to be on Epsilon RP. *Required.*
+-   **Do you know any people who can vouch for you?**
+   They don't need to be on Starbound Zeta. *Required.*
 
 Roleplay rules
 ==============
 
-Read these before roleplaying on Epsilon RP. *IC* stands for *in-character* and *OOC* stands for *out-of-character*. *ERP* stands for *erotic roleplay* and *CRP* stands for *combat roleplay*.
+Read these before roleplaying on Starbound Zeta. *IC* stands for *in-character* and *OOC* stands for *out-of-character*. *ERP* stands for *erotic roleplay* and *CRP* stands for *combat roleplay*.
 
 ### Definitions
 
 - **RP:** Roleplay.
 - **Combat roleplay (CRP):** Roleplay in which a character attempts to fight another character or defend against a fight. Attempts to harm a character without engaging in combat do not count, though they do count for consent purposes.
 - **Erotic roleplay (ERP):** Roleplay in which a character performs actions that are sexual or erotic in nature. *Romantic roleplay* does not always fall under this term.
-- **In character (IC):** Whenever you are roleplaying as a character. This includes actions taken by characters or stuff happening in the background.
-- **Out of character (OOC):** Whenever you are not roleplaying as any character. This includes any chat directly to other roleplayers outside of roleplay itself.
-- **Metagaming:** Any use of out-of-character knowledge in an in-character manner. Examples of this include "reading minds" when your character is not telepathic, acting as if your character knows anything they wouldn't know under the circumstances, and spite RP (defined below).
+- **In character (IC):** Whenever one is roleplaying as a character. This includes actions taken by characters or stuff happening in the background.
+- **Out of character (OOC):** Whenever one is not roleplaying as any character. This includes any chat directly to other roleplayers outside of roleplay itself.
+- **Metagaming:** Any use of out-of-character knowledge in an in-character manner. Examples of this include "reading minds" when your character is not telepathic, acting as if your character knows anything he or she wouldn't know under the circumstances, and spite RP (defined below).
 - **Godmodding:** Roleplay in which one character forces actions on another without OOC consent or against OOC refusal or in which a character swoops in and does everything with the snap of a finger, or similar roleplay.
 - **Powergaming:** Roleplay involving any abilities, weapons or other items not listed on a combat sheet, if they don't fall under the exceptions list, or involving *twinking*, defined below. This typically merits a discussion with staff and character balancing. This is not to be confused with *godmodding*, defined above.
 - **Twinking:** Roleplay involving grossly overpowered characters with few or no weaknesses. Such characters are called *twinks*.
 - **Munchkin:** A roleplayer who engages in CRP to win rather than to have fun, tell stories and interact with other characters.
 - **Spite RP:** Adjusting a character's behaviour or actions based on OOC relationships and vendettas. Sometimes, spite RP goes to the point of outright harassment.
 - **Forced RP:** Abuse or bending of the rules in order to force an RP action on someone else's character.
+- **Bullshit roleplay (BSRP):** Behaving in an OOCly "assholish" manner during roleplay. See <u>[this link](https://springhole.net/writing/bad-spirited-roleplaying.htm)</u> for more info on what constitutes BSRP.
 - **Non-player character (NPC):** Any character not directly RPed by any player.
-- **Multi-clienting:** Connecting to the server with multiple SB clients to be able to RP multiple characters.
+- **Multi-clienting:** Roleplaying multiple characters at the same time, regardless of how many actual SB clients are involved.
 
 ### Important stuff
 
 -   ***Use common sense.*** There's no telling how many problems could be resolved or avoided by following this one simple rule.
--   **If a staff member tells you there's a problem, there's a problem. Do not ignore staff just because your violation is not explicitly listed or referenced in the rules.** Staff will try to work with you to correct the problem without resorting to staff action.
+-   **If a staff member tells you there's a problem, there's a problem. Do not ignore staff just because your violation is not explicitly listed or referenced in the rules.** Staff will try to work with you to correct the problem without resorting to drastic actions.
 -   **Ignorance is no excuse or "get out of jail free" card. Please read the rules.**
 -   **Forced RP or other abuse or manipulation of the rules to one's own benefit (e.g., harassing a roleplayer into death consent) will lead to staff action. Don't play the rules game.** Victims of forced RP or rule abuse should immediately privately report it to the staff via Discord DMs.
 -   **Powergaming, godmodding and metagaming are NOT allowed.**
 -   **Original characters please. References to other franchises are fine, but they are generally fictional in the in-character universe.** If you want to roleplay an existing franchise character, staff permission *and* an ironclad IC justification are required.
 -   **Staff permission is required to roleplay certain important lore characters, e.g., Clipped Council members.**
--   **Magic and psionics are NOT allowed.** All character abilities and items should have some sort of reasonably realistic explanation behind them (within the realm of hard sci-fi). If you intend to roleplay existing characters with magical or psionic abilities, either retcon out the abilities or don't play the characters at all.
+-   **Magic, psionics and other supernatural stuff are NOT allowed.** All character abilities and items should have some sort of reasonably technological or mundane explanation behind them (within the realm of "low" sci-fi like *Serenity*, *Firefly* or *Rimworld*). The explanation doesn't need to be rigorously hard-science or anything, but it can't just be "it's magic" or "somehow". If you intend to roleplay existing characters with magical or psionic abilities, either retcon out the abilities or don't play the characters at all.
 -   **Character abilities, equipment and resources should be ICly justified and preferably balanced, with sensible weaknesses.** Don't just make a billionaire character willy-nilly. Roleplayers who make overpowered or "gamey" characters will have a chat with staff first.
 -   **If you are violating rules, staff may require your character to "take an L", force CRP consent, allow others to void you without consequence or permakill your character, etc., depending on the severity of the violation. If violations are bad enough, you may be banned from RP. Rule violations done out of OOC spite will receive more stringent punishment.** IC explanation for punishment consequences is generally left to the punished roleplayer, if staff do not provide it.
 
@@ -134,18 +134,18 @@ General rules
 
 -   **All roleplayers MUST be mature. However, underage/immature *characters* are permitted. You must be 18+ to see NSFW content though.**
 -   **Metagaming, powergaming and godmodding are not allowed.** Please report such incidents to staff or RP monitors.
--   **ERP is *NOT ALLOWED* on the server, in the wiki, or in the RP channels.** If you want to ERP, do it in Discord DMs.
--   **Underage ERP, regardless of whether it's the roleplayers or characters, or both, that are underage, *even if implied*, will be *swiftly and immediately met with a permanent ban*. No excuses or appeals.**
--   **Keep ERP to private Discord DMs. Public ERP on the server *á la maniére de Stallion* will be met with a swift ban, and private ERP on the server will lead to staff action.**
+-   **ERP is *NOT ALLOWED* on the Starbound server or in the RP channels.** If you want to ERP, do it in Discord DMs.
+-   **Underage ERP, regardless of whether it's the roleplayers or characters, or both, that are underage, *even if implied*, will be *swiftly and immediately met with a permanent ban*. No excuses.**
+-   **Keep ERP to private Discord DMs. Public ERP on the server *á la Stallion* will be met with a swift ban, and private ERP on the server will lead to staff action.**
 -   **Keep OOC chat to a minimum on roleplay hubs and IC channels.**
 -   **Avoid IC references to OOC pop culture and memes unless it makes sense for your character to make such references.** After all, it's ICly the year 3219.
 -   **This is a serious roleplay community. Avoid shitpost/joke characters and gamey fourth-wall-breaking RP. Excessive or obnoxious fourth-wall breaking or overuse of shitpost/joke characters may lead to restrictions from roleplay.**
--   **Please refrain from excessive and gratuitous IC insults or disparagement if OOCly requested.** Not everyone can handle this stuff or keep OOC and IC emotions separated. Consistent and callous disregard for or insensitivity to such OOC requests will lead to staff action.
+-   **Refrain from BSRP.** Repeated violations of this rule *will* lead to a ban.
 -   **Cross-server roleplay is encouraged!** Bring in all the existing characters you want.
--   **Server lore takes precedence over vanilla lore on Epsilon RP.**
+-   **Server lore takes precedence over vanilla lore on Starbound Zeta.**
 -   **Roleplayers should try to resolve conflicts regarding roleplay rules before going to staff.** This should hopefully save everyone a lot of grief.
 -   Some combat-related rules may be ignored if consent from all parties is given *and* staff give the okay to it. Abuse of this stipulation is, however, not tolerated.
--   *In-game day/night cycles and weather are to be taken as in-roleplay conditions* (they have been modified on the server to be more realistic).
+-   *In-game day/night cycles and weather are to be taken as in-roleplay conditions.* The day-night cycle and weather have been modified on the server.
 
 Sheets, pages and lore
 ----------------------
@@ -156,6 +156,8 @@ Sheets, pages and lore
 
 -   Ordinary civilian equipment, such as tasers, bear/pepper spray, crowbars and baseball bats.
 -   Conventional civilian firearms (handguns, hunting rifles, etc.).
+-   Ordinary civilian mobility gear, such as scooters, skateboards and emergency parachutes.
+-   Ordinary civilian vehicles, such as groundcars.
 -   Combat knives.
 -   Ordinary civilian characters.
 -   Membership in factions.
@@ -166,13 +168,15 @@ Sheets, pages and lore
 ### Stuff that DOES require sheets/pages
 
 -   Highly armed characters in general.
--   Non-civilian firearms (assault rifles, sniper rifles, plasma weapons, etc.).
+-   Non-civilian firearms (assault rifles, sniper rifles, plasma weapons, sniper rifles, etc.).
+-   Unusual mobility gear, such as flight packs, gliders and diving jets. These items should still have significant restrictions — e.g., a flight pack has limited fuel, a glider only lets you glide and ride thermals, or a diving jet is somewhat bulky and has a top speed of 30 km/h.
+-   High-end civilian vehicles (e.g., aircars) and
 -   Custom-made or tinkered items.
 -   Any kind of armour beyond bulletproof vests, combat helmets and sports equipment.
 -   Any item made of materials or alloys beyond the durasteel tier.
 -   Generally, anything you wouldn't expect an ordinary civilian to possess.
 -   Leadership of factions.
--   Any character with 500,000 or more pixels in the bank, or with more than 1,500,000 pixels in assets (land, equipment, etc.).
+-   Any character with the equivalent of $500,000 USD or more in the bank, or with more than $1,500,000 USD in assets (land, equipment, etc.).
 -   Any character with non-combat NPC servants or slaves.
 -   Any augments, genemods, cybernetics or medical conditions that provide advantages or significant disadvantages.
 -   Non-vanilla races or sub-races.
@@ -183,13 +187,14 @@ Sheets, pages and lore
 
 The stuff below requires staff approval. If in doubt as to whether you need items, characters, factions or whatever approved, ask staff.
 
--   Non-small arms and sniper rifles.
+-   Heavy weapons (RPGs, LAWs, heavy plasma weapons, vehicular weapons, cannon, artillery, etc.)
 -   Anything made of impervium, black diamonds or diamondoid.
+-   Any items or tech that give you truly superhuman mobility. As a guideline, if it lets you fly freely with few restrictions, move like Spider-Man or Batman, or move at vehicular speeds without an actual vehicle, it counts.
 -   Power armour.
 -   Mechs and mechsuits.
 -   Characters with access to NPC combat assistance or NPC combatants under their control or leadership.
 -   Very powerful factions with more than a hundred or so NPC members.
--   Any character with more than 10 million pixels in assets.
+-   Any character with more than $10 million USD in assets.
 -   Synthetic or robotic characters, if they have any kind of backups.
 -   Any kind of neural backup or cloning/revival/uploading tech. All backups and revival tech must be documented on the character's sheet, and a character can only have limited backups.
 -   Hive-minded characters, characters controlled by parasites or anything in that vein.
@@ -206,11 +211,11 @@ This section explains the rules dealing with consent to harming other characters
 - **Encounter:** Any situation in which there is a fight or any attempt to harm a character.
 - **Death:** Any state in which is a character is *dead* and unable to come back *at all*. Reviving dead characters *requires* staff approval, which is highly unlikely to be given.
 - **KO:** Knock-out. Any state in which a character is unable to be RPed at all for a while (at least 24 hours) due to being comatose, highly drugged, in a stupor or in a similar state. Shorter periods of time in such a state are considered to be incap. Death of a synthetic/robotic character typically counts as a KO, unless all backups are destroyed.
-- **Incapacitation (incap):** Any state in which a character is ICly unable to engage in a combat encounter in any real capacity for at least 24 hours (usually due to severe traumatic injuries) and may be unable to be RPed for up to 24 hours, but may otherwise be roleplayed (though is likely stuck in an ICU or similar until they recover). Such a character is incapacitated, or ''incapped' for short.
+- **Incapacitation (incap):** Any state in which a character is ICly unable to engage in a combat encounter in any real capacity for at least 24 hours (usually due to severe traumatic injuries) and may be unable to be RPed for up to 24 hours, but may otherwise be roleplayed (though is likely stuck in an ICU or similar until the character recovers). Such a character is incapacitated, or ''incapped' for short.
 - **Maiming:** Any injury that a character cannot easily recover from, even with medical care (e.g. loss of a limb or important ability).
 - **Instigation:** Provoking another character (via insults, name-calling, etc.) into starting a fight or otherwise attempting to injure, maim, incap or kill you.
-- **Aggression:** Attempting to start a fight with another character. This is different from instigation in that *your character themselves*, the *aggressor*, is starting the fight.
-- **Injury:** Any state in which a character is injured, maimed or loses abilities in CRP that cause them to be at a disadvantage in subsequent encounters until healed.
+- **Aggression:** Attempting to start a fight with another character. This is different from instigation in that *your character*, the *aggressor*, is starting the fight.
+- **Injury:** Any state in which a character is injured, maimed or loses abilities in CRP that cause the character to be at a disadvantage in subsequent encounters until healed.
 - **Implicit consent:** Consent given *implicitly* by roleplaying as if an action requiring consent succeeded.
 - **Explicit consent:** Consent given directly by outright telling the other party or parties that it is given.
 - **Auto-consent:** Automatic consent. This may be applied as a punishment for RP rule violations, or may optionally be enforced on oneself.
@@ -230,11 +235,11 @@ This section explains the rules dealing with consent to harming other characters
 
 Lack of consent means that an attempt to injure, maim, incap, KO or kill a character failed; the person who RPed the attempt is responsible for explaining the failure if staff don't supply an explanation.
 
-You may revoke consent as long as the action consented to hasn't already been RPed out and you haven't lost it due to the above rules. You're allowed to have auto-consenting characters; it's recommended to list what your character auto-consents to on their sheet. You can also have characters that automatically *refuse* consent, but only if they strictly do not participate in CRP at all. (However, characters that automatically refuse *death consent* can participate in CRP as much as they want.)
+You may revoke consent as long as the action consented to hasn't already been RPed out and you haven't lost it due to the above rules. You're allowed to have auto-consenting characters; it's recommended to list what your character auto-consents to on his or her sheet. You can also have characters that automatically *refuse* consent, but only if they strictly do not participate in CRP at all. (However, characters that automatically refuse *death consent* can participate in CRP as much as they want, within reason.)
 
 Staff can apply automatic consent to any or all of your characters as punishment for rule violations; e.g., your characters may be required to consent to incap, KO or even death as punishment for repeated munchkin behaviour. Staff may also override consent rules for events and other reasons; e.g., characters that KO or kill multiple characters during an event may be allowed to keep consent against KO and not have the KOs and deaths count against them.
 
-**Note:** Unlike ILB, there is no such thing as "CRP consent" on Epsilon RP.
+**Note:** Unlike ILB, there is no such thing as "CRP consent" on Starbound Zeta.
 
 ### Consent for special abilities
 
@@ -266,12 +271,12 @@ When submitting revival applications, use the following template:
 -   Which character are you requesting revival for?
 -   How is your character being brought back? (Include whether or not it is another player character, an event, or a self-revival via background methods; this includes being dragged to a cloning vat or neural scanner by allies or cronies.)
 -   How long has your character been dead? How much damage has there been to the body, and especially to the brain or equivalent?
--   How was your character killed, and who or what killed them?
+-   How was your character killed, and who or what killed the character?
 -   Is your character of a common race or an uncommon race? Which race is it?
 -   Do your character's race or traits make revival/cloning/uploading difficult?
 -   Has your character been revived previously? (Please include **all** instances of revival/cloning/uploading that affect the version of your character seen on-server, including off-server background.)
--   What were the circumstances of their most recent death?
--   Do you consent to staff-decided penalties and side effects from cloning/revival?
+-   What were the circumstances of the character's most recent death?
+-   Do you consent to any staff-decided penalties and side effects from cloning/revival?
 -   If "yes" to the above, do you have any suggestions? (This is to provide staff with an idea of what you want; there's no guarantee that this will affect the final result.)
 
 ### Reviving KOed characters
@@ -308,4 +313,4 @@ Combat and ability rules and guidelines
 -   *Mechs and mechsuits* require special ability consent (as listed above) to use.
 -   *Ships, mechs and mechsuits should require six to eight turns to summon and two or three turns to get in when in CRP.* Hoverbikes, motorbikes and the like should require one or two turns to get in.
 -   *Mind your weapon drawing and reloading.* Unless you have very fast reflexes, you cannot draw a two-handed gun and fire it in the same turn. Firing a handgun as you draw it results in poor accuracy. It takes one or two turns to reload a gun. It takes two or three turns to draw a bow before releasing an arrow, or it won't get very far. You usually need a whole turn to draw a sword (but a knife can be used in the same turn it's drawn, usually). As far as drawing other weapons goes, balance them sensibly.
--   *Disguises and makeup* are allowed without consent, but *surgery, DNA modification and detailed shapeshifting* require consent from the RPer whose character is used as the disguise. (No consent is required if the disguise character is RPed or was created by the same RPer, obviously.)
+-   *Disguises and makeup* are allowed without consent, but *surgery, DNA modification and other similar modifications* require consent from the RPer whose character is used as the disguise. (No consent is required if the disguise character is RPed or was created by the same RPer, obviously.)
