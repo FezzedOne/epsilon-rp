@@ -1,16 +1,16 @@
 RULES — STARBOUND ZETA
 ======================
 
-All community members must abide by the **rules** below, even if they are not active roleplayers. *Important rules are in bold and italic text.*
+All Starbound Zeta members must abide by the **rules** below, even if they are not active roleplayers. *Important rules are in bold and italic text.*
 
 General rules
 =============
 
--   **Do not bring a toxic and shitty attitude to this community. If you don't like it, there's the door.**
--   **Harassment and abuse of other community members are NOT allowed.** *Any* harassment or abuse of community members, or endorsement of such, within this community or in relation to Starbound roleplay, falls under the purview of this rule. Violators may be permabanned or even preemptively banned before joining; preemptive bans will be publicly listed. If you are being harassed or abused over Starbound roleplay, feel free to privately report it to staff.
+-   **Do not bring an assholish or otherwise shitty attitude to this group. If you don't like it, there's the door.**
+-   **Harassment and abuse of other group members are NOT allowed.** *Any* harassment or abuse of community members, or endorsement of such, within this community or in relation to Starbound roleplay, falls under the purview of this rule. Flagrant violators may be permabanned or even preemptively banned before joining; preemptive bans will be publicly listed and are an action that staff should not take lightly. If you are being harassed or abused over Starbound roleplay, feel free to privately report it to staff.
 -   **No spamming or botting.**
 -   **Profanity and swearing are allowed.** Just don't overdo it.
--   **Use brackets for out-of-character chat in in-character areas (e.g., #ic-comms, #space-rp and SB server hubs). Like this:**\
+-   **Use brackets for out-of-character chat in in-character areas (e.g., IC comms channels, Discord roleplay channels and SB server hubs). Example:**\
     (( This is OOC chat. ))
 -   **Keep in-character shitposting to a minimum.**
 -   **Keep out-of-character chat to a minimum in in-character areas.**
@@ -53,7 +53,7 @@ Discord server rules
 Applications, appeals and approval
 ----------------------------------
 
--   **In order to be able to roleplay on Starbound Zeta, you must submit an application in `#applications` on the Discord server.** The application template is pinned in that channel. Those who do not apply to become community members will be kicked after two weeks, no questions asked.
+-   **In order to be able to roleplay on Starbound Zeta, you must submit an application in `#applications` on the Discord server.** The application template is pinned in that channel. Those who do not apply to become Starbound Zeta members will be kicked after two weeks, no questions asked.
 -   **You have two weeks to appeal a rejected application before you are kicked from the community.**
 -   **Appeal bans, mutes and other staff punishments by DMing any moderator or admin.**
 
@@ -139,7 +139,7 @@ General rules
 -   **Keep ERP to private Discord DMs. Public ERP on the server *á la Stallion* will be met with a swift ban, and private ERP on the server will lead to staff action.**
 -   **Keep OOC chat to a minimum on roleplay hubs and IC channels.**
 -   **Avoid IC references to OOC pop culture and memes unless it makes sense for your character to make such references.** After all, it's ICly the year 3219.
--   **This is a serious roleplay community. Avoid shitpost/joke characters and gamey fourth-wall-breaking RP. Excessive or obnoxious fourth-wall breaking or overuse of shitpost/joke characters may lead to restrictions from roleplay.**
+-   **This is a serious roleplay group. Avoid shitpost/joke characters and gamey fourth-wall-breaking RP. Excessive or obnoxious fourth-wall breaking or overuse of shitpost/joke characters may lead to restrictions from roleplay.**
 -   **Refrain from BSRP.** Repeated violations of this rule *will* lead to a ban.
 -   **Cross-server roleplay is encouraged!** Bring in all the existing characters you want.
 -   **Server lore takes precedence over vanilla lore on Starbound Zeta.**
