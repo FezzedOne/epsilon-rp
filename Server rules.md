@@ -163,14 +163,14 @@ Sheets, pages and lore
 -   Membership in factions.
 -   Mercenaries and bounty hunters with ordinary equipment and abilities -- sheets are still recommended for those.
 -   Sub-races of vanilla races, as long as they don't have advantages or significant disadvantages.
--   Civilian-grade prosthetics with no special advantages. Exoskeletons with no special advantages, designed to mitigate disabilities.
+-   Civilian-grade prosthetics with no special advantages. Exoskeletons with no special advantages, designed to mitigate disabilities, and civilian industrial exos.
 
 ### Stuff that DOES require sheets/pages
 
 -   Highly armed characters in general.
 -   Non-civilian firearms (assault rifles, sniper rifles, plasma weapons, sniper rifles, etc.).
 -   Unusual mobility gear, such as flight packs, gliders and diving jets. These items should still have significant restrictions — e.g., a flight pack has limited fuel, a glider only lets you glide and ride thermals, or a diving jet is somewhat bulky and has a top speed of 30 km/h.
--   High-end civilian vehicles (e.g., aircars) and
+-   High-end civilian vehicles (e.g., aircars) and light combat vehicles (e.g., APCs, lightly militarised shuttles).
 -   Custom-made or tinkered items.
 -   Any kind of armour beyond bulletproof vests, combat helmets and sports equipment.
 -   Any item made of materials or alloys beyond the durasteel tier.
@@ -187,8 +187,9 @@ Sheets, pages and lore
 
 The stuff below requires staff approval. If in doubt as to whether you need items, characters, factions or whatever approved, ask staff.
 
--   Heavy weapons (RPGs, LAWs, heavy plasma weapons, vehicular weapons, cannon, artillery, etc.)
--   Anything made of impervium, black diamonds or diamondoid.
+-   Heavy weapons (RPGs, LAWs, heavy plasma weapons, vehicular weapons, cannon, artillery, etc.).
+-   Heavy military vehicles (e.g., tanks, battleships, etc.).
+-   Anything made of impervium, diamondoid or a similar material.
 -   Any items or tech that give you truly superhuman mobility. As a guideline, if it lets you fly freely with few restrictions, move like Spider-Man or Batman, or move at vehicular speeds without an actual vehicle, it counts.
 -   Power armour.
 -   Mechs and mechsuits.
